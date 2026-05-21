@@ -1,6 +1,6 @@
 ### 
 
-I'm **Wilkerson**, a Data Engineer from Brazil. I work with data pipelines and analytical platforms — music is part of the process.
+I'm **Wilkerson**, a Data Engineer from Brazil. I work with data pipelines and analytical platforms -- and music is part of the process.
 
 📈 **Working with:** Python, Spark, Airflow, Azure, and Databricks  
 🔍 **Exploring:** cloud architecture, distributed computing, and data engineering best practices  
