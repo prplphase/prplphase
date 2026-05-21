@@ -1,4 +1,4 @@
-### 👋
+### 
 
 I'm **Wilkerson**, a Data Engineer from Brazil. I make data flow — pipelines, warehouses, and sometimes music.
 
